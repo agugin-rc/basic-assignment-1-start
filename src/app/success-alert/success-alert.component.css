@@ -1,0 +1,15 @@
+.green-color {
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid green;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.green-color:hover{
+    background-color: lightgreen;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

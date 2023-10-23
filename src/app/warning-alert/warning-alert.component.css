@@ -1,0 +1,15 @@
+.red-color {
+    background-color: red;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid red;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.red-color:hover{
+    background-color: rgb(198, 37, 37);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
